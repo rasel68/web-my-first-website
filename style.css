@@ -60,22 +60,17 @@ img{
     background-color: #fafaf9;
     padding: 50px;
 }
-.shape2{
-  background-size: 40%;
-  
+.work{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 200px;
+    margin-top: 50px;
 }
-h4{
+.footer-content{
     text-align: center;
-    color: grey;
 }
-h2{
-    text-align: center;
-}
-.shape5{
-    text-align: center;
-    
-}
-.shape5 img{
-   
-    width:50px ;
+.footer-content img{
+    width:50px;
 }
